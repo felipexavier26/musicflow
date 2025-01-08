@@ -139,7 +139,7 @@ class MusicaController extends Controller
         }
     }
 
-      public function show($id)
+    public function show($id)
     {
         try {
             $musica = Musica::findOrFail($id);
