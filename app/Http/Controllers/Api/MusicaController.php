@@ -139,6 +139,23 @@ class MusicaController extends Controller
         }
     }
 
+      public function show($id)
+    {
+        try {
+            $musica = Musica::findOrFail($id);
+            return response()->json([
+                'status' => true,
+                'musica' => $musica
+            ], 200);
+        } catch (Exception $e) {
+            return response()->json([
+                'status' => false,
+                'message' => "Erro ao buscar a música",
+                'error' => $e->getMessage(),
+            ], 500);
+        }
+    }
+
     public function update(Request $request, $id)
     {
         DB::beginTransaction();
