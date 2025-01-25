@@ -104,3 +104,17 @@ Este projeto é um sistema para gerenciamento e compartilhamento de links de mú
 7. **Inicie o Servidor de Desenvolviment**:
     ```bash
     Abra o navegador em http://127.0.0.1:8000.
+
+
+
+
+![image](https://github.com/user-attachments/assets/1f0c1680-194a-411b-bd08-8397141ccdeb)
+
+![image](https://github.com/user-attachments/assets/4e242082-d858-4877-ab7f-a5c695741b13)
+
+![image](https://github.com/user-attachments/assets/3d65a9b3-0f83-47e9-a420-ebee6dc54041)
+
+![image](https://github.com/user-attachments/assets/535ee62c-3d9f-4438-a92d-882543da8617)
+
+
+
