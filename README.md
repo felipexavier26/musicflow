@@ -114,7 +114,7 @@ Este projeto é um sistema para gerenciamento e compartilhamento de links de mú
 
 ![image](https://github.com/user-attachments/assets/3d65a9b3-0f83-47e9-a420-ebee6dc54041)
 
-![image](https://github.com/user-attachments/assets/535ee62c-3d9f-4438-a92d-882543da8617)
+![image](https://github.com/user-attachments/assets/0980342d-a2f8-4bb4-9291-85e9fffd9258)
 
 
 
